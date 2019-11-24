@@ -2,7 +2,4 @@
 
 we are providing following courese....
 
-AWS
-DEVOPS
-LINUX
-PYTHON
+
