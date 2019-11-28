@@ -1,4 +1,4 @@
-<h1> ############### WELCOME TO ORACLE CLOUD TECHNOLOGIES ############### </h1>
+<h1> ############### WELCOME TO ORACLE DATABASE TECHNOLOGIES ############### </h1>
 
 we are providing following courese....
 
